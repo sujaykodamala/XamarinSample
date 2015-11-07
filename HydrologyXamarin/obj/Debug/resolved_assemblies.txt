@@ -1,0 +1,12 @@
+C:\Users\SUJAY\documents\visual studio 2012\Projects\HydrologyXamarin\HydrologyXamarin\obj\Debug\assemblies\HydrologyXamarin.dll
+C:\Users\SUJAY\documents\visual studio 2012\Projects\HydrologyXamarin\HydrologyXamarin\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\SUJAY\documents\visual studio 2012\Projects\HydrologyXamarin\HydrologyXamarin\obj\Debug\assemblies\Mono.Data.Sqlite.dll
+C:\Users\SUJAY\documents\visual studio 2012\Projects\HydrologyXamarin\HydrologyXamarin\obj\Debug\assemblies\mscorlib.dll
+C:\Users\SUJAY\documents\visual studio 2012\Projects\HydrologyXamarin\HydrologyXamarin\obj\Debug\assemblies\System.Core.dll
+C:\Users\SUJAY\documents\visual studio 2012\Projects\HydrologyXamarin\HydrologyXamarin\obj\Debug\assemblies\System.Data.dll
+C:\Users\SUJAY\documents\visual studio 2012\Projects\HydrologyXamarin\HydrologyXamarin\obj\Debug\assemblies\System.dll
+C:\Users\SUJAY\documents\visual studio 2012\Projects\HydrologyXamarin\HydrologyXamarin\obj\Debug\assemblies\System.Xml.dll
+C:\Users\SUJAY\documents\visual studio 2012\Projects\HydrologyXamarin\HydrologyXamarin\obj\Debug\assemblies\System.Xml.Linq.dll
+C:\Users\SUJAY\documents\visual studio 2012\Projects\HydrologyXamarin\HydrologyXamarin\obj\Debug\assemblies\System.Transactions.dll
+C:\Users\SUJAY\documents\visual studio 2012\Projects\HydrologyXamarin\HydrologyXamarin\obj\Debug\assemblies\Mono.Data.Tds.dll
+C:\Users\SUJAY\documents\visual studio 2012\Projects\HydrologyXamarin\HydrologyXamarin\obj\Debug\assemblies\Mono.Security.dll

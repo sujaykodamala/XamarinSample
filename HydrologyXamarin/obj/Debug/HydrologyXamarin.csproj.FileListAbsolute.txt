@@ -1,0 +1,17 @@
+C:\Users\SUJAY\documents\visual studio 2012\Projects\HydrologyXamarin\HydrologyXamarin\bin\Debug\HydrologyXamarin.dll
+C:\Users\SUJAY\documents\visual studio 2012\Projects\HydrologyXamarin\HydrologyXamarin\bin\Debug\HydrologyXamarin.pdb
+C:\Users\SUJAY\documents\visual studio 2012\Projects\HydrologyXamarin\HydrologyXamarin\bin\Debug\HydrologyXamarin.HydrologyXamarin.apk
+C:\Users\SUJAY\documents\visual studio 2012\Projects\HydrologyXamarin\HydrologyXamarin\bin\Debug\HydrologyXamarin.HydrologyXamarin-Signed.apk
+C:\Users\SUJAY\documents\visual studio 2012\Projects\HydrologyXamarin\HydrologyXamarin\obj\Debug\HydrologyXamarin.dll
+C:\Users\SUJAY\documents\visual studio 2012\Projects\HydrologyXamarin\HydrologyXamarin\obj\Debug\HydrologyXamarin.pdb
+C:\Users\SUJAY\documents\visual studio 2012\Projects\HydrologyXamarin\HydrologyXamarin\obj\Debug\android\bin\HydrologyXamarin.HydrologyXamarin.apk
+C:\Users\SUJAY\documents\visual studio 2012\Projects\HydrologyXamarin\HydrologyXamarin\obj\Debug\res\layout\main.xml
+C:\Users\SUJAY\documents\visual studio 2012\Projects\HydrologyXamarin\HydrologyXamarin\obj\Debug\res\layout\mainpage.xml
+C:\Users\SUJAY\documents\visual studio 2012\Projects\HydrologyXamarin\HydrologyXamarin\obj\Debug\res\layout\insertion.xml
+C:\Users\SUJAY\documents\visual studio 2012\Projects\HydrologyXamarin\HydrologyXamarin\obj\Debug\res\layout\welllayout.xml
+C:\Users\SUJAY\documents\visual studio 2012\Projects\HydrologyXamarin\HydrologyXamarin\obj\Debug\res\values\strings.xml
+C:\Users\SUJAY\documents\visual studio 2012\Projects\HydrologyXamarin\HydrologyXamarin\obj\Debug\res\drawable\icon.png
+C:\Users\SUJAY\documents\visual studio 2012\Projects\HydrologyXamarin\HydrologyXamarin\obj\Debug\res\drawable\add.png
+C:\Users\SUJAY\documents\visual studio 2012\Projects\HydrologyXamarin\HydrologyXamarin\obj\Debug\res\drawable\marker-32.png
+C:\Users\SUJAY\documents\visual studio 2012\Projects\HydrologyXamarin\HydrologyXamarin\obj\Debug\R.cs.flag
+C:\Users\SUJAY\documents\visual studio 2012\Projects\HydrologyXamarin\HydrologyXamarin\obj\Debug\uploadflags.txt

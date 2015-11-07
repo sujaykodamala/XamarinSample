@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="HydrologyXamarin.HydrologyXamarin" android:versionCode="1" android:versionName="1.0">
+  <uses-sdk android:minSdkVersion="11" />
+  <application android:label="HydrologyXamarin" android:icon="@drawable/icon" android:name="mono.android.app.Application" android:debuggable="true">
+    <activity android:label="EntryPage" android:name="md5245949f0c6986e3fc61e43413f4700ec.EntryPage" />
+    <activity android:label="Insert" android:name="md5245949f0c6986e3fc61e43413f4700ec.Insert" />
+    <activity android:label="MainActivity" android:name="md5245949f0c6986e3fc61e43413f4700ec.MainActivity" />
+    <activity android:label="WellReading" android:name="md5245949f0c6986e3fc61e43413f4700ec.WellReadingActivity" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="HydrologyXamarin.HydrologyXamarin.mono.MonoRuntimeProvider.__mono_init__" />
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.HydrologyXamarin.HydrologyXamarin" />
+      </intent-filter>
+    </receiver>
+    <activity android:label="MainActivity" android:name="hydrologyxamarin.hydrologyxamarin.TrialSplashScreen" android:theme="@style/Mono.Android.Theme.Splash" android:noHistory="true">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+  </application>
+  <uses-permission android:name="android.permission.INTERNET" />
+</manifest>
